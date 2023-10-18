@@ -1,6 +1,7 @@
- # **Nemanja Stanojevic**
+**Nemanja Stanojevic**
+---------
 
- Personal details:
+Personal details:
 ---------
 Email: **nemanja.stanojevic.kv@gmail.com**\
 Phone: **+381 64 132 78 58**\

@@ -1,6 +1,3 @@
-**Nemanja Stanojevic**
----------
-
 Personal details:
 ---------
 Email: **nemanja.stanojevic.kv@gmail.com**\

@@ -84,10 +84,45 @@ experiences:
         time: 2019 - 2021 (1 yrs 2 mos)
         company: Credeo GmbH, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
-            - Bullet point
-            - Bullet point
+          I was Fullstack Engineer in a smaller scale company. Worked on 
+          several projects which all used Firebase cloud computing services 
+          (and Google Cloud Platform as needed) on the backend side, and 
+          ReactJS with Material UI on the frontend side.
+
+          Responsibilities:
+            - Collaborate with cross-functional teams to understand project 
+            requirements and design application architectures.
+            - Determine the best approach for integrating Firebase and Google 
+            Cloud services within the application.
+            - Design data models, database structures, and API endpoints to 
+            ensure efficient data management.
+            - Back-end development
+              - Build server-side logic using Node.js, implementing RESTful 
+              or GraphQL APIs for data interaction.
+              - Handle authentication, authorization, and user management 
+              features securely.
+              - Integrate third-party services and libraries as needed to 
+              extend application functionality.
+            - Database management
+              - Design and manage databases, choosing between Firestore, 
+              Firebase Realtime Database, or Google Cloud databases depending 
+              on project requirements.
+              - Implement data security, validation, and indexing strategies 
+              for efficient data retrieval.
+            - DevOps and Deployment:
+              - Set up continuous integration/continuous deployment (CI/CD) 
+              pipelines for automated testing and deployment.
+              - Manage version control, deployment environments, and 
+              infrastructure as code (IaC) for consistent deployments.
+            - Front-End Development:
+              - Develop and maintain user interfaces using React, ensuring a 
+              responsive and intuitive user experience.
+              - Create reusable components, manage application state, and 
+              implement client-side routing.
+              - Optimize the front-end for performance and usability while 
+              adhering to best practices in web development.
+
+          Technologies: Firebase, ReactJS, NodeJS, GraphQL,  
 
       - role: Software Engineer
         id: 1
@@ -95,7 +130,7 @@ experiences:
         company: Logispin, Kragujevac
         details: |
           I was part of the team working on Online Casino Games such as slot 
-          machines, card games, roulette and similar, within a gaming platform. 
+          machines, card games, roulette and similar, within a gaming platform.
           The game engine forms the core framework that powers these games, 
           handling game logic, user interactions, and ensuring great user 
           experience. Also, later on, I was part of the UI team working on 
@@ -112,7 +147,7 @@ experiences:
             - Focus on optimizing game performance to provide a seamless and 
               responsive gaming environment.
           
-          Technologies: JavaScript, React
+          Technologies: JavaScript, ReactJS
 
       - role: Software Developer - Team Lead
         id: 0

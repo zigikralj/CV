@@ -10,7 +10,8 @@ sidebar:
     # Profile information
     name: Nemanja Stanojevic
     tagline: Software Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg 
 
     # Sidebar links
     email: nemanja.stanojevic.kv@gmail.com
@@ -20,7 +21,7 @@ sidebar:
     website:  #do not add http://
     linkedin: nemanjastanojevic
     xing: 
-    github: zigikralj
+    github: zigikralj 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -93,24 +94,41 @@ experiences:
         time: 2016 - 2019 (3 yrs 9 mos)
         company: Logispin, Kragujevac
         details: |
-          - Collaborated with the game design team to translate game concepts
-            and designs into functional software.
-          - Write code for the development of various casino games, ensuring 
-            smooth gameplay and adherence to industry regulations.
-          - Implement engaging features, animations, and sound effects to 
-            enhance player experience.
-          - Focus on optimizing game performance to provide a seamless and 
-            responsive gaming environment.
+          I was part of the team working on Online Casino Games such as slot 
+          machines, card games, roulette and similar, within a gaming platform. 
+          The game engine forms the core framework that powers these games, 
+          handling game logic, user interactions, and ensuring great user 
+          experience. Also, later on, I was part of the UI team working on 
+          React apps such as live score, registrations and administration 
+          applications. 
+          
+          Responsibilities:
+            - Collaborated with the game design team to translate game concepts
+              and designs into functional software.
+            - Write code for the development of various casino games, ensuring 
+              smooth gameplay and adherence to industry regulations.
+            - Implement engaging features, animations, and sound effects to 
+              enhance player experience.
+            - Focus on optimizing game performance to provide a seamless and 
+              responsive gaming environment.
+          
+          Technologies: JavaScript, React
+
       - role: Software Developer - Team Lead
         id: 0
         time: 2013 - 2015 (2 yrs 3 mos)
         company: Comtrade SE, Kragujevac
         details: |
-          I was part of HP Operations Manager
-          In the project my responsibilities were:
+          I was part of HP Operations Manager project  which is aimed to develop 
+          and maintain a comprehensive monitoring and management solution for IT 
+          infrastructure and applications. This software was crucial for ensuring 
+          the reliability, availability, and performance of critical systems within 
+          an organization.
+
+          Responsibilities:
             - As an intern, I have actively participated in the software 
               development process.
-            - Later on:
+            - As a Software Developer:
               - Contributed to the design and architecture of the project, ensuring 
               that it met the performance and functionality requirements.
               - Developed and maintained code components and modules, often working 
@@ -121,6 +139,8 @@ experiences:
               team members to maintain code quality and best practices.
               - Collaborated with quality assurance (QA) teams to identify and resolve
               software defects and ensure the product's reliability.
+
+          Technologies: Java, Apache Cocoon, JavaScript, PostgreSQL, C, JNI, Jetty
 
 # certifications:
 #       title: Certifications

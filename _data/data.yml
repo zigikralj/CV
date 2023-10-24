@@ -74,10 +74,20 @@ experiences:
         time: 2021 - Present (3 yrs 1 mos)
         company: Comtrade 360 (HPE), Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit.
-            - Bullet point
-            - Bullet point
+          I was part of HPE Insight Remote Support project, 
+
+          Responsibilities:
+            - Collaborate with product managers, designers, and other 
+            stakeholders to define project requirements and scope.
+            - Design the architectural structure of the Administrator UI,
+            considering scalability, maintainability, and extensibility.
+            - Develop the front-end of the administration UI application 
+            using ReactJS and Material UI.
+            - Integrate with APIs and back-end services to fetch and 
+            display relevant data to administrators.
+            - Build the back-end of the application...
+
+          Technologies: ReactJS, Java, PostgreSQL, Jetty
 
       - role: Senior Software Engineer
         id: 2

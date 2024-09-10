@@ -25,7 +25,7 @@ export default function App() {
       </Box>
       <hr />
       <Grid2 container spacing={2} sx={{ p: 1 }}>
-        <Grid2 container size={6} sx={{ alignItems: "end" }}>
+        <Grid2 container size={{ md: 6, xs: 12 }} sx={{ alignItems: "end" }}>
           <Skeleton variant="rectangular" width={240} height={320} />
           <Box sx={{ mb: 3 }}>
             <Typography sx={{ mb: 1, fontSize: "1.2rem" }}>Profile</Typography>
@@ -38,7 +38,10 @@ export default function App() {
             </Typography>
           </Box>
         </Grid2>
-        <Grid2 sx={{ background: "#F1F1F1", borderRadius: 1, p: 1 }} size={6}>
+        <Grid2
+          sx={{ background: "#F1F1F1", borderRadius: 1, p: 1 }}
+          size={{ md: 6, xs: 12 }}
+        >
           <Box sx={{ mb: 1 }}>
             <Typography sx={{ mb: 1, fontSize: "1.2rem" }}>Contact</Typography>
             <Grid2 container spacing={1} sx={{ mb: 1, ml: 1 }}>

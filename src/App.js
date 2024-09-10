@@ -244,9 +244,6 @@ export default function App() {
                     Google Cloud services within the application.
                   </Typography>
                   <Typography>
-                    Develop tool for adding new data in DB
-                  </Typography>
-                  <Typography>
                     Design data models, database structures, and API endpoints
                     to ensure efficient data management.
                   </Typography>

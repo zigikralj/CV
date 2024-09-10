@@ -1,21 +1,20 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-pdf: true
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Nemanja Stanojevic
-    tagline: Software Engineer
+    # name: Nemanja Stanojevic
+    # tagline: Software Engineer
     # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    avatar: profile.jpg 
+    # avatar: profile.jpg 
 
     # Sidebar links
-    email: nemanja.stanojevic.kv@gmail.com
-    phone: +381 64 132-78-58
+    # email: nemanja.stanojevic.kv@gmail.com
+    # phone: +381 64 132-78-58
     timezone: Central European Time (CET)
     citizenship:
     website:  #do not add http://

@@ -7,12 +7,15 @@
     "@babel/helper-builder-react-jsx": "latest",
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
+    "@mui/icons-material": "^6.0.2",
     "@mui/material": "latest",
     "@testing-library/jest-dom": "latest",
     "@testing-library/react": "latest",
     "@testing-library/user-event": "latest",
+    "clsx": "^2.1.1",
     "preact": "latest",
-    "react-scripts": "^5.0.0"
+    "react-scripts": "^5.0.0",
+    "uuid": "^10.0.0"
   },
   "scripts": {
     "start": "react-app-rewired start",

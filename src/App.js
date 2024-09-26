@@ -200,7 +200,7 @@ export default function App() {
                   <Typography>
                     Optimization and perfomance improvement of the app (for
                     example number of requests reduced from ~100 to ~10 per
-                    page, introduced client side caching, installer size reduced
+                    page, introduced client side cashing, installer size reduced
                     from ~1.5GB to ~512MB).
                   </Typography>
                   <Typography>
